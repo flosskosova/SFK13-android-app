@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/item_list_click"
+   >
+
+    <TextView
+        android:id="@+id/t_v_startTime"
+        android:layout_width="55dp"
+        android:layout_height="70dp"
+        android:layout_alignBottom="@+id/t_v_Type"
+        android:layout_alignParentTop="true"
+        android:background="#D9E2E1"
+        android:gravity="center"
+        android:textSize="12dp"
+        android:padding="10dp"
+        android:text="09:00"
+        android:textColor="@color/Black"
+         />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:id="@+id/t_v_speaker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/t_v_title"
+        android:layout_toRightOf="@+id/t_v_startTime"
+        android:text="Speaker"
+        android:gravity="left"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/t_v_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/t_v_startTime"
+        android:gravity="left"
+        android:padding="2dp"
+        android:text="Title"
+        android:textColor="#006699"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/t_v_Type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/t_v_speaker"
+        android:layout_below="@+id/t_v_speaker"
+        android:gravity="left"
+        android:paddingBottom="3dp"
+        android:text="Type: "
+        android:textSize="15dp" />
+
+</RelativeLayout>

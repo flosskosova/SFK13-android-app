@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100"
+    tools:context=".MainActivity"
+    android:background="@color/Yellow" >
+    
+
+	<TableRow 
+	     android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingBottom="50dp"
+         android:layout_weight="40"
+         android:stretchColumns="*"
+	    >
+
+		<ImageView
+		    
+		    android:id="@+id/imageView1"
+		    android:layout_width="fill_parent"
+		    android:layout_height="404dp"
+		    android:layout_weight="40"
+		    android:src="@drawable/first_page_large" />
+
+	</TableRow>
+    
+   <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+         android:layout_alignParentEnd="true"
+        android:layout_weight="60" 
+        android:weightSum="100"
+        android:stretchColumns="1,2,3,4"
+         
+        >
+
+        <ImageButton
+            android:id="@+id/imageButtonAbout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/about" 
+            android:layout_weight="25"
+           />
+        <ImageButton 
+            android:id="@+id/imageButtonPrograms"
+             android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/programs"
+            android:layout_weight="25"
+            />
+        <ImageButton 
+            android:id="@+id/imageButtonSponsors"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/sponsors"
+            android:layout_weight="25"
+           />
+        <ImageButton 
+            android:id="@+id/imageButtonSpeakers"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/speakers"
+            android:layout_weight="25"
+            />
+    </TableRow>
+</RelativeLayout>

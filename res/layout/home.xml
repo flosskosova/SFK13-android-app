@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    >
+    
+
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_visual"
+    android:orientation="vertical"
+    >
+
+    <TableLayout
+             
+         android:layout_alignBottom="@+id/TableRowOne"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/gradient">
+        
+        <TableLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            
+            <ImageView 
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                 android:layout_width="match_parent"
+            	 android:layout_height="wrap_content"
+            	 android:src="@drawable/sfk"
+                />
+        </TableLayout>
+        <TableRow 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+           >
+         
+            <TextView 
+                 android:layout_width="match_parent"
+           		 android:layout_height="wrap_content"
+           		 android:text="Program :"
+           		 android:textSize="15sp"
+           		 android:textColor="@color/Text_Transparent"
+           		 android:paddingLeft="2dp"
+                />
+            
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+           	android:weightSum="100">
+
+            <Button
+                android:id="@+id/buttonSaturDay"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_margin="5dp"
+                android:layout_weight="100"
+                android:background="@drawable/button_click"
+                android:text="Saturday (Day 1)"
+                android:textColor="@color/Text_Transparent"
+                android:textSize="20sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+           	android:weightSum="100">
+
+            <Button
+                android:id="@+id/buttonSunday"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_margin="5dp"
+                android:layout_weight="100"
+                android:background="@drawable/button_click"
+                 android:textColor="@color/Text_Transparent"
+                android:text="Sunday (Day 2)"
+                android:textSize="20sp" />
+
+        </TableRow>
+        <TableRow
+			android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+           	android:weightSum="100"
+           	android:layout_marginBottom="30dp"
+           >
+            <Button
+                android:id="@+id/buttonMonday"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_margin="5dp"
+                android:layout_weight="100"
+                android:background="@drawable/button_click"
+                 android:textColor="@color/Text_Transparent"
+                android:text="Monday (Day 3)"
+                android:textSize="20sp" />
+        </TableRow>
+        <TableRow
+			android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+             
+           >
+             <Button
+                android:id="@+id/buttonSpeakers"
+                android:layout_column="0" 
+                 android:layout_width="0dip"
+        		android:layout_weight="1"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+               android:background="@drawable/button_click"
+                 android:textColor="@color/Text_Transparent"
+                android:text="Speakers"
+                android:textSize="20sp" />
+              <Button
+                android:id="@+id/buttonSponsors"
+                android:layout_column="1" 
+               android:layout_width="0dip"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                 android:layout_weight="1"
+               android:background="@drawable/button_click"
+                 android:textColor="@color/Text_Transparent"
+                android:text="Sponsors"
+                android:textSize="20sp" 
+               />
+             
+ 
+              
+            </TableRow>
+        <TableRow
+			android:layout_width="fill_parent"
+            android:layout_height="wrap_content" 
+            android:paddingBottom="20dp"
+            android:layout_marginBottom="20dp"
+           >
+             <Button
+                android:id="@+id/buttonAbout"
+                android:layout_width="0dip"
+        		android:layout_weight="1"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+              
+                android:background="@drawable/button_click"
+                 android:textColor="@color/Text_Transparent"
+                android:text="About"
+                android:textSize="20sp" />
+              <Button
+                android:id="@+id/buttonVenue"
+                android:layout_width="0dip"
+        		android:layout_weight="1"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/button_click"
+                 android:textColor="@color/Text_Transparent"
+                android:text="Venue"
+                android:textSize="20sp" />
+            </TableRow>
+            
+        
+           
+    </TableLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentEnd="true"
+        android:background="@color/Semi_Transparent"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="Organized by: FLOSSK"
+        android:textColor="@color/White" />
+   
+
+</RelativeLayout>
+</ScrollView>

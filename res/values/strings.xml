@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SFK\'13</string>
+    <string name="action_settings">Settings</string>
+    <string name="Platinium">Platinium:</string>
+	<string name="Gold">Gold:</string>
+	<string name="Media">Media:</string>
+	<string name="Facebook">Facebook</string>
+	<string name="Refresh">Refresh</string>
+	<string name="about_text3">\n Lincensed under GPL. Source available at (link)</string>
+	<string name="Developers">Developed by: \nArlind Hajredinaj \narlind.hajredinaj@gmail.com</string>
+	
+	<string name="FirstPart">SFK (Software Freedom Kosova Conference) is the biggest annual nonprofit conference in Kosovo established to promote software freedom, open source software, free culture and open knowledge, a global movement that originally started more than 25 years ago.
+
+The Conference gathers each year academics, users, developers and people who share the idea that software should be free and open for the community to develop and customize to its needs; that knowledge is a communal property and free and open to everyone.  Each year SFK succeeded in its mission; educating Kosovo youth on Free and Open Source Software, its ideology and the great community behind it. SFK conferences had great impact on creating strong bonds of friendship between the local community and foreign one.
+
+SFK provides a fertile ground to build and enhance networking within the tech community, both in the local region and worldwide by being used as a meeting point for a network of individuals and companies with the aim of sponsoring and initiating projects which benefit the people in Kosovo and which should also result in commercial benefits for the surrounding region.</string>
+
+<string name="SecondPart">Available to both the general public and the technical community, SFK offer it’s attendees:
+
+Local/Regional/International and National networking for business and new friends worldwide.
+Hands-on training and in depth talks from local and international speakers with a focus on the following subjects:
+   \u2022 Basics: What is Free and Open Source Software?
+   \u2022 How it works: How open source software gets funded and made (e.g. IBM, Red Hat, etc.), how OSS communities operate, the beauty of sharing code and data to build a better future
+   \u2022 Business: How can free and open source software help you develop your business?
+   \u2022 Government: How can OSS support government goals and plans?  Open government data and open data formats for connecting with constituents.
+   \u2022 Education: Advantages of free and open source software for Education?
+   \u2022 Non-profit sector: How can public and private institutions benefit from free and open source software?
+   \u2022 Use and Development: Tools, desktop environment and distros, languages, web/web 2.0, standards, multimedia and video production, communities, security, servers, system administration, networks, mobile, databases, cloud computing  and more.</string>
+
+<string name="TitleTwo">Who is organizing SFK ?</string>
+<string name="PartThree">Free Libre Open Source Software Kosova (FLOSSK) is a non-governmental non-profit organization established in order to support, promote and develop:</string>
+<string name="PartFour">   \u2022 Free/Libre Software as defined by the</string>
+<string name="LinkFour">2Free Software Foundation;</string>
+<string name="PartFive">   \u2022 Open Source Software as defined by the</string>
+<string name="LinkFive">Open Source Initiative;</string>
+<string name="PartSix">   \u2022 Open and participatory knowledge as that supported by the :</string>
+<string name="LinkSix">Wikimedia Foundation;</string>
+<string name="PartSeven">   \u2022 Education in information technologies through open courses like those from :</string>
+<string name="LinkSeven">MIT;</string>
+<string name="PartEight">FLOSSK is the organizer of Software Freedom Kosova Conference for the fifth year now, gathering this way people who are interested in creating, developing or simply using free and open source software – based on code that can be altered by the users themselves.
+
+FLOSSK’s website:</string>
+<string name="LinkEight">  http://www.flossk.org</string>
+<string name="TitleThree">A little History:</string>
+<string name="PartNine">Since, an initiative to promote the plenty fold benefits of free software had not been undertaken until then, on September 2008, James Michael Dupont started an initiative to gather interested parties in the organization of the first Free and Open Source Software in Kosovo.
+
+The virtual event attracted around 600 people and this served as an incentive for a group of close-knit partner organizations to be built and start putting the conference into action.
+
+On March 22nd 2009, the first general assembly of what came to be called FLOSSK was held. The assembly set the aims and goals of the organization: focusing in gathering all IT and non-IT people interested in creating a single movement in creating a Free and Open Source Software community in Kosovo.</string>
+
+<string name="Linux">this is a workshop for Linux so come and check it out bro, </string>
+<string name="Ubuntu">this is a workshop for Ubuntu so come and check it out bro, </string>
+<string name="Mint">this is a workshop for Linux Mint so come and check it out bro, </string>
+<string name="Mozilla">this is a workshop for Mozilla so come and check it out bro, </string>
+<string name="Fedora">this is a workshop for Fedora so come and check it out bro, </string>
+<string name="Arch">this is a workshop for Linux so come and check it out bro, </string>
+</resources>
