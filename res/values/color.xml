@@ -157,9 +157,10 @@
  <color name="Black">#000000</color>
  <color name="SfkC">#F9ED33</color>
  <color name="Semi_Transparent">#50000000</color>
- <color name="Transparent">#000000</color>
+ <color name="Transparent">#00FFFFFF</color>
  <color name="Text_Transparent">#FFFFFF</color>
  <color name="Blue_Transparent">#59009999</color>
  <color name="Yellow_Transparent">#99F9F000</color>
 <color name="Yellow_1_Transparent">#FFFFA1</color>
+<color name="blue_text">#006699</color>
 </resources>

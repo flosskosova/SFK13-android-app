@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+     <org.osmdroid.views.MapView
+        android:id="@+id/mapview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+      
+
+       <ZoomControls
+           android:id="@+id/zoomcontrols"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_above="@+id/linearLayout_two"
+           android:layout_centerHorizontal="true" />
+       <TableLayout 
+           android:id="@+id/linearLayout_two"
+          android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentEnd="true"
+           >
+<TableRow
+			android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+           <TextView
+               android:id="@+id/tv_OSM"
+               android:layout_height="wrap_content"
+               android:background="@drawable/osm_click"
+               android:gravity="center"
+               android:layout_width="0dip"
+        		android:layout_weight="1"
+               android:padding="5dp"
+               android:text="@string/p_osm"
+               android:textColor="@color/White" />
+
+           <TextView
+               android:id="@+id/tv_map_adress"
+               android:layout_width="0dip"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:background="@drawable/osm_click"
+               android:gravity="center"
+               android:padding="5dp"
+               android:text="@string/texti"
+               android:textColor="@color/White" />
+           </TableRow>
+       </TableLayout>
+</RelativeLayout>
+ <!--SFK'13 is and android app used for the Software Freedom Kosovo 2013 conference which is organized by flossk 
+    Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>
+	
+	SFK'13 Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details. -->

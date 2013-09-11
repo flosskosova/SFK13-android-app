@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:listSelector="@android:color/transparent"
+   >
+
+    <ImageView
+        android:id="@+id/iv_speaker_pic"
+        android:scaleType="centerCrop"
+        android:layout_width="100dp"
+        android:layout_height="110dp"
+        android:layout_alignBottom="@+id/tv_speaker_Twitter"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:padding="5dp"
+        
+         />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:id="@+id/tv_speaker_website"
+        android:background="@drawable/speaker_link_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_speaker_Name"
+        android:layout_toRightOf="@+id/iv_speaker_pic"
+        android:text="Website : "
+        android:gravity="left"
+        android:textSize="15sp"
+        android:textIsSelectable="true"/>
+
+    <TextView
+        
+        android:id="@+id/tv_speaker_Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/iv_speaker_pic"
+        android:gravity="left"
+        android:padding="5dp"
+        android:text="Name"
+        android:textColor="#006699"
+        android:textSize="20sp" 
+        android:textIsSelectable="true"/>
+
+    <TextView
+        android:id="@+id/tv_speaker_Facebook"
+        android:background="@drawable/speaker_link_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_speaker_website"
+        android:layout_below="@+id/tv_speaker_website"
+        android:gravity="left"
+        android:paddingBottom="3dp"
+        android:text="Facebook: "
+        android:textSize="15sp"
+        android:textIsSelectable="true" />
+    <TextView 
+        android:id="@+id/tv_speaker_Des"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_speaker_pic"
+        android:textSize="15sp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingBottom="4dp"
+        android:paddingTop="10dp"
+        android:textIsSelectable="true"
+        />
+</RelativeLayout>
+ <!--SFK'13 is and android app used for the Software Freedom Kosovo 2013 conference which is organized by flossk 
+    Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>
+	
+	SFK'13 Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details. -->

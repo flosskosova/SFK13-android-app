@@ -8,28 +8,27 @@
 	<string name="Media">Media:</string>
 	<string name="Facebook">Facebook</string>
 	<string name="Refresh">Refresh</string>
-	<string name="about_text3">\n Lincensed under GPL. Source available at: https://github.com/flosskosova/SFK13-android-app</string>
-	<string name="Developers">Developed by: \nArlind Hajredinaj \narlind.hajredinaj@gmail.com</string>
+	<string name="about_text3">\nLincensed under GPL v3.0. Source available at: https://github.com/flosskosova/SFK13-android-app </string>
+
+	<string name="Developers">Developed by: \nArlind Hajredinaj and Jeton Ahmetaj  \narlind.hajredinaj@gmail.com\njeton.ahmetaj40@gmail.com</string>
 	
-	<string name="FirstPart">SFK (Software Freedom Kosova Conference) is the biggest annual nonprofit conference in Kosovo established to promote software freedom, open source software, free culture and open knowledge, a global movement that originally started more than 25 years ago.
+	<string name="FirstPart">SFK (Software Freedom Kosova Conference) is the biggest annual nonprofit conference in Kosovo established to promote software freedom, open source software, free culture and open knowledge, a global movement that originally started more than 25 years ago.\n\nThe Conference gathers each year academics, users, developers and people who share the idea that software should be free and open for the community to develop and customize to its needs; that knowledge is a communal property and free and open to everyone.  Each year SFK succeeded in its mission; educating Kosovo youth on Free and Open Source Software, its ideology and the great community behind it. SFK conferences had great impact on creating strong bonds of friendship between the local community and foreign one.\n\nSFK provides a fertile ground to build and enhance networking within the tech community, both in the local region and worldwide by being used as a meeting point for a network of individuals and companies with the aim of sponsoring and initiating projects which benefit the people in Kosovo and which should also result in commercial benefits for the surrounding region.</string>
 
-The Conference gathers each year academics, users, developers and people who share the idea that software should be free and open for the community to develop and customize to its needs; that knowledge is a communal property and free and open to everyone.  Each year SFK succeeded in its mission; educating Kosovo youth on Free and Open Source Software, its ideology and the great community behind it. SFK conferences had great impact on creating strong bonds of friendship between the local community and foreign one.
+<string name="SecondPart">Available to both the general public and the technical community, SFK offer it’s attendees:\n\n
 
-SFK provides a fertile ground to build and enhance networking within the tech community, both in the local region and worldwide by being used as a meeting point for a network of individuals and companies with the aim of sponsoring and initiating projects which benefit the people in Kosovo and which should also result in commercial benefits for the surrounding region.</string>
-
-<string name="SecondPart">Available to both the general public and the technical community, SFK offer it’s attendees:
-
-Local/Regional/International and National networking for business and new friends worldwide.
-Hands-on training and in depth talks from local and international speakers with a focus on the following subjects:
-   \u2022 Basics: What is Free and Open Source Software?
-   \u2022 How it works: How open source software gets funded and made (e.g. IBM, Red Hat, etc.), how OSS communities operate, the beauty of sharing code and data to build a better future
-   \u2022 Business: How can free and open source software help you develop your business?
-   \u2022 Government: How can OSS support government goals and plans?  Open government data and open data formats for connecting with constituents.
-   \u2022 Education: Advantages of free and open source software for Education?
-   \u2022 Non-profit sector: How can public and private institutions benefit from free and open source software?
-   \u2022 Use and Development: Tools, desktop environment and distros, languages, web/web 2.0, standards, multimedia and video production, communities, security, servers, system administration, networks, mobile, databases, cloud computing  and more.</string>
+\u2022 Local/Regional/International and National networking for business and new friends worldwide.\n
+\n\u2022 Hands-on training and in depth talks from local and international speakers with a focus on the following subjects:\n
+   \n\u2022 Basics: What is Free and Open Source Software?\n
+   \n\u2022 How it works: How open source software gets funded and made (e.g. IBM, Red Hat, etc.), how OSS communities operate, the beauty of sharing code and data to build a better future\n
+   \n\u2022 Business: How can free and open source software help you develop your business?\n
+   \n\u2022 Government: How can OSS support government goals and plans?  Open government data and open data formats for connecting with constituents.\n
+   \n\u2022 Education: Advantages of free and open source software for Education?\n
+   \n\u2022 Non-profit sector: How can public and private institutions benefit from free and open source software?\n
+   \n\u2022 Use and Development: Tools, desktop environment and distros, languages, web/web 2.0, standards, multimedia and video production, communities, security, servers, system administration, networks, mobile, databases, cloud computing  and more.\n</string>
 
 <string name="TitleTwo">Who is organizing SFK ?</string>
+<string name="update_app">Do you want to check for updates?\n\n If updates are found, you will have to re-install the app manually.</string>
+
 <string name="PartThree">Free Libre Open Source Software Kosova (FLOSSK) is a non-governmental non-profit organization established in order to support, promote and develop:</string>
 <string name="PartFour">   \u2022 Free/Libre Software as defined by the</string>
 <string name="LinkFour">2Free Software Foundation;</string>
@@ -41,19 +40,207 @@ Hands-on training and in depth talks from local and international speakers with 
 <string name="LinkSeven">MIT;</string>
 <string name="PartEight">FLOSSK is the organizer of Software Freedom Kosova Conference for the fifth year now, gathering this way people who are interested in creating, developing or simply using free and open source software – based on code that can be altered by the users themselves.
 
-FLOSSK’s website:</string>
+\n\nFLOSSK’s website:</string>
 <string name="LinkEight">  http://www.flossk.org</string>
 <string name="TitleThree">A little History:</string>
 <string name="PartNine">Since, an initiative to promote the plenty fold benefits of free software had not been undertaken until then, on September 2008, James Michael Dupont started an initiative to gather interested parties in the organization of the first Free and Open Source Software in Kosovo.
 
-The virtual event attracted around 600 people and this served as an incentive for a group of close-knit partner organizations to be built and start putting the conference into action.
+\n\nThe virtual event attracted around 600 people and this served as an incentive for a group of close-knit partner organizations to be built and start putting the conference into action.
 
-On March 22nd 2009, the first general assembly of what came to be called FLOSSK was held. The assembly set the aims and goals of the organization: focusing in gathering all IT and non-IT people interested in creating a single movement in creating a Free and Open Source Software community in Kosovo.</string>
+\n\nOn March 22nd 2009, the first general assembly of what came to be called FLOSSK was held. The assembly set the aims and goals of the organization: focusing in gathering all IT and non-IT people interested in creating a single movement in creating a Free and Open Source Software community in Kosovo.</string>
 
-<string name="Linux">this is a workshop for Linux so come and check it out bro, </string>
-<string name="Ubuntu">this is a workshop for Ubuntu so come and check it out bro, </string>
+<string name="firfoxos">The purpose of this workshop is to walk you through the Web API\'s in Firefox OS, the security model, the building blocks and get you on your way to creating your first Firefox OS application. Since we have a limited amount of phones available, we\'ll be using the Firefox OS simulator. Be sure to install it before attending, here is a download link: https://addons.mozilla.org/en-US/firefox/addon/firefox-os-simulator/\n
+ 
+Be sure to have your preffered JavaScript IDE installed, if you don\'t already have one, here are a few cross-platform suggestions:\n\n
+
+Aptana - http://www.aptana.com/products/studio3/download\n\n
+
+Eclipse - http://www.eclipse.org/webtools/jsdt/\n\n
+ 
+
+For testing purposes, it\'s better if you have a web server installed, anyone you want.\n\n
+ 
+
+Be sure to register and don\'t forget to bring a laptop, I\'m afraid a tablet won\'t be useful for this workshop.</string>
+
+<string name="emberjs">EmberJS is a JavaScript framework for building rich front-end application.  The workshop will guide you step-by-step on how to build a front-end app with EmberJS.\n\n
+
+Requirements: You should know JavaScript and also have heard about MVC pattern.\n\n
+
+Description:\n\n
+
+\u2022EmberJS and what’s out there\n
+\u2022Introduction of EmberJS\n
+\u2022Main components in EmberJS\n
+\u2022Templates\n
+\u2022Router\n
+\u2022Components\n
+\u2022Models\n
+\u2022Controllers\n
+\u2022Starter kit\n
+\u2022Building a application from scratch (front end)\n
+\u2022Resources and more about EmberJS\n
+\u2022Questions and answers\n
+</string>
+<string name="second_lecture">"The speech will include:
+
+-How precious is the role of community, not just for users of the software, but for developers as well.
+
+-How should community activity have impact on choosing the right software or “tools” to be used by the system administrators.
+
+-How Open Source Software allows the community to develop their knowledge.
+
+-How much freedom does Open Source Software offer and how can this freedom be best used from everyone.
+
+-How important is the contribution of everyone to the community.
+
+-How can local communities be built and to whom will the most responsibility fall for building local communities."</string>
+<string name="ogp">"On 9 July, Kosovo Government announced its intention to join the Open Government Partnership (OGP). Launched in 2011, OGP is a multilateral initiative that aims to secure concrete commitments from governments to promote transparency, empower citizens, fight corruption, and harness new technologies to strengthen governance. 
+
+It is an extension of hacker ethos to governance. 
+
+To become a member of OGP, participating countries must deliver a country action plan developed with public consultation of civil society, businesses and government institutions. 
+
+In his talk, Arianit will explain what OGP can mean for Kosovo and why and how you should get involved. 
+
+The talk is likely to interest newcomers, especially girls and women, that are enthusiastic about contributing to FOSS, but it is not limited to professionals that might be interested in participating in the outreach programs as mentors."</string>
+<string name="freelancing">The talk will be about how to get ready to start freelancing, set out and grow up through the experience. Also, it will mention how to take advantage of the skills one acquires while managing themselves to eventually start managing others and start a business.</string>
+<string name="hackerspaces">In the \'early days\' online communities and projects were created, organized and developed at online forums, IRC channels, mailing lists, wikis and other platforms of knowledge sharing using the world wide web as their connectivity hub. 
+These platforms were the foreground of the collaborative and hacking culture and played a crucial role in the development of project such as Linux, Wikipedia, Creative Commons and more. After a while hackers realized that physical collaboration was even more effective than talking and working behind a screen. The need for real world meetings, in combination with the raise of the maker culture and the evolution of hardware hacking platforms such as Arduino, created the ideal foundations for the opening of the first physical venues called hackerspaces. 
+Hackerspaces are a community-operated workspace where people with common interests, often in computers, technology, science, digital art or electronic art, can meet, socialize and/or collaborate. With these foundations in mind, Open Labs Albania (www.openlabs.cc) joined the hackerspaces movement in 2010 by hosting projections, events, hacknights and weekly gatherings where members and participants work together using free software, experiment with 3D printing and other hardware, collaborate with regional organizations and function as a hub of different projects of the local open knowledge community.  
+One of the projects of the hackerspace is also WMKIT (www.wemakeit.co), an affordable educational hardware kit based on Arduino standarts that helps you make the first steps in controlling the world using microcontrollers, sensors, electronics and programing. The kit has great feedback so far not only in Albania, but also in Europe where workshops are held at the moment. The most important element of the WMKIT project though is the importance of sharing the projects and solutions we produce at our hackerspaces with the world and the people that need these solutions. This is what this talk is all about, closing the innovations gap... 
+
+</string>
+<string name="flamur">An enthusiastic web developer, with a lot of experience in different areas, in love with open source even that he uses Windows most of the time, contributor on different open source projects, started his own company when he was 18 and has worked both in public and private sectors. He has been working for some large Norwegian companies such as Nettby Community AS a part of VG Multimedia AS, Akershus County Council, Holte byggsafe AS, NETS (one of the largest payment solutions in north) by developing and designing their products.</string>
+<string name="change_world">"Despite computers being everywhere today, some of the best things in life are things you share with people - pizza with your friends, a great concert, a beautiful sunset, a passionate kiss with someone you love.
+When we share, wonderful things can happen: laughters, smiles, warmth, happiness.
+One of the most powerful things we can share is knowledge: “what to do”, “how to do it”, but the most enjoyable knowledge we can share, are things that make people happy.
+What if we could combine the two, and change the world, by sharing knowledge and making people happy?
+The internet has made it very cheap to share knowledge and mobile phones/cell phones have made it possible to for almost anyone to access it.
+Free Software has enabled anyone with a computer, with time, persistence and enthusiasm to build something that can be seen all around the world, by millions of people.
+How can we use these things, to share knowledge and make people happy (and maybe earn a few [million] euros)?
+
+"</string>
+<string name="the_barriers">"In this speech he aims to show a few obstacles when working with the government and public institutions in software related projects. Governments are realizing open source software is suitable in solving many obstacles in their work, which have been solved by others before, thus leading to lowering costs.
+
+However, what are some of the challenges that open source software faces from the outset? Why do governments and public officials hesitate to work with it? And what are the challenges even if they want to work with OSS? How to overcome them?
+
+The speech will be focused on answering these questions through 3 emerging trends:
+
+1. Separating the technology from the problem being tackled by emphasizing the core functionalities of the solution and user needs - requirements engineering through Human centered design (design thinking)
+
+2. Rapid prototyping is one way to remove fears around open source software by demonstrating essential functionalities of accomplishing user needs. This also shifts the focus away from fears from using OSS to actually making the solution fit the user needs. Hackathons are increasingly becoming an efficient way of doing this.
+
+3. Work within a context and start small. Many times OSS cannot be used to change systems, but it can be the building blocks of one. If the problem the government faces is data collection, work with OSS for data collection to customize one of them to fit the needs.
+
+In the end, he will mention a few practical and legitimate challenges in using OSS in governments and their work."</string>
+<string name="the_cloud">"Some people use the cloud. Others build one. This talk will be about building your own enteprise cloud.
+
+When running a cloud 3 things are important: scaling, easy (cost effective) maintenance, and stability. These 3 points are very closely related through one subject: automation. Thanks to the easy automation tools like pxe boot (for booting a new setup) and puppet (for configuring a new system) setting up a new server was never this easy. But how can we use these tools to create a scalable infrastructure that is cost effective, stable and easy to maintain? 
+In this talk you will learn about how to design a scalable secure architecture and how to make the right tools work for you without going into to  much detail."</string>
+<string	name="data_protection">"During the presentation in SFK2013 Hekuran aims to talk about security trends which risk can display the information technology sector in Kosovo. With particular emphasis he will be explaining DDOS attacks, malware and SPAM.
+
+He will also explain the challenges he faces in everyday work trailer, and will introduce the way his own company manages to confront with these challenges using OpenSource software. During the presentation he'll try to explain the value of free software and will encourage participants to use it to increase the level of security."</string>
+<string name="voxpolitico">"The research presented in this talk has been inspired by the large amount of text documents depicting debates in the Macedonian parliament. Since its establishment in 1991, the Macedonian parliament has held more than 733 plenary sessions. Debates originating from each session have been transcribed and published on the web site of the Macedonian parliament. While these resources are invaluable to researchers from the field social studies; due to their great amount they have been unusable by the general public. A great amount of information is condemned to be lost in this mountain of documents. This trend of generating data has been recognized by the research community as a big problem, often named as the productivity paradox: even though we have a lot of data, there is an obvious lack of information resulting from it.
+
+Our goal is to deliver to the general public a tool that will generate pictures (visual clues) for the thousand and thousand words spoken everyday by our political representatives. The public will not only have means to read or hear their representatives, but also see what they stand for and be able to quickly identify trends, similarities or dissimilarities between various politicians. We believe that we can build automatic tools that will carefully analyze these documents and publish unbiased results, by utilizing state of the art data mining techniques and furthermore publish these results in a more representative fashion, understandable by everyone. The entire system aims to promote the open source spirit: technologies used to build the system are open source as well as the entire system will be available for free to anyone interested."
+    
+</string>
+<string name="outreach">"In the recent years FOSS projects have been trying to narrow the gender gap among the contributors and increase the diversity of the communities by making outreach efforts. The motivation is the gender disproportion: Surveys of FOSS projects have found that women make up, at most, 5 percent of FOSS contributors and from 181 applications for Google Summer of Code in 2006 none of them was from women.
+
+The Women Outreach Programs present such specifically targeted efforts to encourage and increase the participation of women in free and open source software. This is done through welcoming them in the collaborative communities and trough creating opportunities for passionate and talented participants to contribute to the free and open source software. The program is not limited to software developers - it also welcomes contributors in graphic design, documentation, system administration, user interface design, marketing, translations and reporting bugs.
+
+This talk will focus on the experience of being a participant in the GNOME Women Outreach Program/GSoC, on how to get started with contributing to FOSS and how this can serve as an encouragement and motivation to get involved in the local communities as well."
+    
+</string>
+<string name="webvideo">"There's been plenty of (corporate) enthusiasm to bring video to the
+web. And open source developments like HTML5 video and WebRTC bring
+media consumption and communication into the (plugin-free) web
+browser. These movements on their own do not propose a radical shift
+in the function of media, but by virtue of their openness leave us
+with a huge range of underexplored possibility. In particular, I will
+discuss and demonstrate through open source projects I've developed
+some ideas for how the history of the web can suggest changes to how
+we peruse, discuss, and create media."\n\n"Design your own media codec!
+
+Why ""compression"" cannot be left to others, and how you can design
+your own media encodings.
+
+Participants (basic programming experience encouraged but not
+required) will be introduced to a socio-political and information
+theory of compression and then provided with an open source workflow
+for designing and utilizing their own video codecs.
+
+"</string>
+<string name="drupal">One of the strengths of Drupal is that it is highly configurable, but this is also one of its weaknesses because it becomes tedious and infeasible to do all the necessary configurations manually, especially
+
+when you have to repeat them. Drupal profiles are used to build distributions of Drupal, which have pre-installed packages with pre-installed themes, default configurations, etc. They are useful for building quickly sites of a certain type (for example an eCommerce site). I have used Drupal profiles to build B-Translator, so that everybody can install a similar site very quickly.
+
+During the presentation I will try to explain what are Drupal profiles, why they are useful, how to build a Drupal profile, and I will try to illustrate it with examples taken from B-Translator."\n\nFeatures are very useful for building Drupal profiles (re-usable applications). They provide a way to capture and save in code the customizations that are done to a Drupal site/application. During the workshop I will show how I have used them in B-Translator.\n\n"Before the workshop have a look at this article:
+http://www.academia.edu/3992404/Using_Drupal_Features_In_B-Translator
+
+Also make sure that you have a local copy of B-Translator installed on your laptop (follow the installation instructions on this article:
+http://www.academia.edu/4054221/Cloning_a_B-Translator_Server)
+</string>
+<string name="opendata">A very easy and IMO important way to promote Open Data and do useful things with them. Aimed mostly but not exclusively at teachers. This would be another edition of the workshop that Marco already ran at the International Open Data week last june, see below:
+
+In the context of ODWM 2013 I\'ve lead a short workshop that has first been a first, partial but collaborative attempt to organize the material I\'ve been collecting on this topic since I first proposed it in 2011. The slogan for the workshop was \"giving teachers and students reasons to use and produce Open Data\". For the moment, the following material about the workshop is available:
+\n
+\u2022 Program and call for material (please note that suggestions and pointers to new material to add in future editions are always welcome!)\n
+\u2022 the official invitation to the workshop made on June 26th 2013\n
+\u2022 slides of the first part of the workshop (basically an update of the 2011 proposal)\n
+\u2022 results of the workshop (still waiting for some additions from participants, will be open around mid-july 2013)</string>
+<string name="postgres">"Some people use the cloud. Others build one. This talk will be about building your own enteprise cloud.
+
+When running a cloud 3 things are important: scaling, easy (cost effective) maintenance, and stability. These 3 points are very closely related through one subject: automation. Thanks to the easy automation tools like pxe boot (for booting a new setup) and puppet (for configuring a new system) setting up a new server was never this easy. But how can we use these tools to create a scalable infrastructure that is cost effective, stable and easy to maintain? 
+In this talk you will learn about how to design a scalable secure architecture and how to make the right tools work for you without going into to  much detail."</string>
+<string name="html_css">It\'s getting hard to keep up with this fast evolving web, so this talk will cover the new \(awesome\) HTML5/CSS3 features that you may have missed, and it will be focused on HTML/CSS and a little JS primitives which address the layout, performance and some use cases.</string>
+<string name="wordpress">"On my presentation i will show audience how easy and cool is building WordPress Theme's and WordPress core.
+I will target ground zero WordPress knowledge audience, and based on that will try to describe on my best way basics and some advances using WordPress."</string>
+<string name="arduino">"Are you an interactive artist, a creative programmer, a maker or just interested in creating interactive objects or environments? If your answer is YES than the WMKIT Arduino workshop is for you.
+
+During this workshop you will get exposed to the Arduino software/hardware and work in teams to make your own creative experiments. The event course with help you start controlling the physical world with sensors and actuators – from learning the basics of electronics, to more complex projects. All in learning by doing motion: you will learn through building several creative projects and experiments with your kit.
+
+The workshop is opened for absolute beginners. 
+
+All the practical experiments will be held with WMKIT  - a kit initiated in the Balkans from local communities that is taking over Europe. "</string>
+<string name="Ubuntu"> Ubuntu is very cool so just come by and see whats going on the news and all the stuff, </string>
 <string name="Mint">this is a workshop for Linux Mint so come and check it out bro, </string>
 <string name="Mozilla">this is a workshop for Mozilla so come and check it out bro, </string>
 <string name="Fedora">this is a workshop for Fedora so come and check it out bro, </string>
-<string name="Arch">this is a workshop for Linux so come and check it out bro, </string>
+<string name="Arch">this is a workshop for Arch so come and check it out bro, </string>
+<string name="p_osm">Powered by: OSM</string>
+<string name="texti">Address</string>
+<string name="test">Singer and dancer Cab Calloway was born on December 25, 1907, in Rochester, New York. He landed a gig performing regularly at Harlem’s famous Cotton Club. He’s associated with 1930s Jazz and his 1931 hit “Minnie the Moocher” is considered to be one of the first recordings to feature scat singing. He appeared on stage and made films, including the 1979 movie The Blues Brothers, before his death in 1994.</string>
+<string name="ick_address">5 Rexhep Mala no. 21
+Prishtina
+Kosovo</string>
+<string name="fed_address">Rr."Agim Ramadani", p.n.
+10.000 Prishtinë
+Republika e Kosovës</string>
+<string name="ick_text">Rexhep Mala str, 28A, 
+10000 Prishtina, 
+Kosovo</string>
+<string name="robert_m">Robert M Ochshorn (born 1987, California, USA) is a nomadic computer practitioner and researcher focusing on intersections throughout:
+Media and journalism; electrical and computer engineering; sonic and visual art. After receiving a BA in Computer Science from Cornell University (Ithaca, NY, USA) in 2009, Ochshorn worked as a Research Assistant with Krzysztof Wodiczko in the Interrogative Design Group at MIT and Harvard, and in 2012 completed a fellowship at the Jan van Eyck Academie (Maastricht, NL), where he developed the open-source InterLace software that was used in collaboration with Eyal Sivan to create the web-based documentary Montage Interdit (presented at the Berlin Documentary Forum 2, June 2012, Berlin, Germany). He has recently participated in the HAIP2012 ("Designing the Archive User Interface," 30 November 2012, Ljubljana, Slovenia), VideoVortex9 ("Breaking the Frame," 2 March 2013, Lüneburg, Germany), and the International Short Film Oberhausen ("Chewing," 6 May 2013, Oberhausen, Germany) festivals.</string>
+<string name="fed_text">Agim Ramadani str, p.n.
+10000 Prishtina,
+Kosovo</string>
+<string name="TimDobson">Tim has a background in systems administration and server management, interests in hiking, climbing and mountaineering, a bad photography habit and a chronic case of digital rights activism. Tim is a Systems Administrator and "Community Wrangler" at Bytemark Hosting, a hosting company that has built a strong foundation on free and open source software. Bytemark was recognised worldwide when earlier this year, they announced they were pledging hardware worth about £150,000/yr to the Debian Project (on top of their large existing commitments to the free software community). Tim is a keen mountaineer, systems administrator, occasional photographer and is noted for his complete lack of gardening skills.</string>
+<string name="alex">Alex is a Mozilla Representative based in Cluj-Napoca, the heart of Transylvania. He\'s a JavaScript developer building on the open web, trying to push it\'s boundaries every day. He is a great public speaker and most of the times talks about Mozilla and all the great things it builds, like Firefox OS.</string>
+<string name="ana_r">Ana Risteska is one of the newest members of Free Software Macedonia and a contributor in the GNOME project. In 2012 she participated in the GNOME Women Outreach Programme and worked on the development of GNOME Shell project and on implementation on parts of the design of GNOME 3.6.Ana works as web/information designer and front-end developer in Reactor - Research in Action, a think-tank based in Skopje, Macedonia. Ana is Bachelor of Computer Science from the German Faculty for Engineering and Industrial Management, Sofia Bulgaria.</string>
+<string name="jovanka">Jovanka Guliscoska is a software developer and student on the Faculty for Electrical Engineering and Information Technologies in Skopje. In 2012 she becomes a member of Free Software Macedonia and in 2013 she becomes the first female president of Free Software Macedonia.Throughout the years Jovanka participated in three rounds of Google Summer of Code/Women Outreach Programs - she worked on the messaging program Empathy, on GNOME Boxes - an application of the GNOME Desktop Environment used to access remote or virtual systems and on CERN\'s Virtual Machine project.</string>
+<string name="bert">Bert Desmet is a consultant and system engineer and dba at Deloitte Belgium where his primary goal is to maintain and further develop the \'Deloitte Analytics Platform\', a cloud platform for business intelligence and analytics.His passion is automation and data. Therefore Bert is responsible for everything \'DATA\' in the Deloitte Analytics cloud: The database part and the data transformation part.</string>
+<string name="marco">Marco Fioretti is a freelance writer, popularizer, activist and teacher. His field is open digital standards, Free Software, digital technologies and the impacts of all these things on education, ethics, civil rights, environmental issues and, in general, everyday life. That\'s why the slogan of this website is: your civil rights and the quality of your life depend on how software is used AROUND you.He discovered the Free Software world in the mid 90\'s, because he used UNIX in his daily work and he wanted to try something similar at home. Almost immediately, however, he became much more interested in the ethical side of Free Software rather than in the coding, and in all its implications for civil rights, politics, education, and social development.These days, his main activities are writing, teaching and sometimes consulting in all the fields above. Occasionally he also work freelance as English to Italian translator. In an earlier life, he was an ASIC and FPGA designer, and sometimes still go back to that world.</string>
+<string name="visar">Visar Shehu, PhD, is an assistant professor at the Contemporary Sciences and Technologies department of South East European University (SEEU) in Tetovo, Macedonia. His research focuses on data mining and data visualization technologies. During his experience as a lecturer in SEEU, he has been teaching courses related to the project proposed on this application, such as Data Mining, Scientific Data Visualization, Database Systems etc. He has been also working independently in developing commercial systems employing a range of technologies (web, mobile or desktop applications).</string>
+<string name="adrian">Adrian Besimi, PhD, is an assistant professor at the South East European University. His research focuses on Business-to-Business Electronic Commerce using Electronic Data Interchange and Software Oriented Architecture. During his experience as a lecturer in SEEU, he was engaged in courses related to the project proposed on this application, such as Data Mining, Information Systems, etc. Meanwhile he was engaged in many commercial projects related to Web development and web programming as well as mobile application development.</string>
+<string name="baki">Baki Goxhaj is a independent web consultant from Vlorë, Albania. He has been freelancing for more then six years now and specializes in WordPress and Laravel framework development.</string>
+<string name="arianit">Arianit has been with FLOSSK ever since the first SFK, serving in the board of FLOSSK and co-chairing some of the conference editions. He is interested in the nexus of technology and society</string>
+<string name="arbnor">Arbnor is currently involved with the Innovations Lab in Kosovo at the Design Center. He coordinates and oversees a team of several students and software developers and is in charge of researching open source technology solutions for various institutional bottlenecks in protecting and serving youth and children of Kosovo. He finished his masters degree in computer science at the Vrije Universiteit in Amsterdam. His interests vary across different fields related to Internet and Web Technologies, primarily in web architectures for mashups, data visualization and online privacy. He is also a published co-author of 2 papers on privacy in social networks in international ACM Conferences and Journals.</string>
+<string name="burim">Burim Shala lives and works in Prishtina, doing some cool WordPress Themes with a Start-up based on Prishtina called "Umbrella".In his past he did software development on desktop app\'s using Visual C# and Java, a 3 and a half year spent building some Multimedia Systems,than moved on Web Development started with PHP and stood there for a Year writing Raw PHP app\'s and web-sites for BoldUnderline .LLC.A contributor on GitHub and on StackOverflow.</string>
+<string name="dashamir">Computer Engineer from Tirana. Has embraced and supported Free Software movement since his university days (15 years ago). In the last 4 to 5 years has participated actively in all the Free Software and Open Source activities in Albania and Kosova (events, conferences, etc.). Always active in online communities in Facebook, LinkedIn, Google+, etc.Dashamir is a Linux expert with a good experience in network engineering, system administration, bash scripting, etc. He has also a special interest and expertise in web software development, mainly in the LAMP platform. For the last two years he has been working with Drupal7 in order to build a platform called B-Translator (see http://info.btranslator.org).</string>
+<string name="fehmi">Fehmi is 34 years old, he works as system administrator for Post and Telecommunication of Kosovo since October 2001, their systems include Unix (AIX, Solaris, HPUX, Tru64 Unix, FreeBSD) and Linux (RedHAT, CENTOS, SUSE) Operating Systems. In PTK he works at division that provides services of Internet, IPTV and Voice (PSTN and VOIP). He posseses RHCE with verification number 805009268844526. Fehmi obtained Bachelor Degree on University of Prishtina in Economy Faculty branch Management and Informatics.</string>
+<string name="vleran">Vleran lives and works in Prishtina, creating some awesome WordPress Themes (the Front End part) and he started on Web Development as a PHP developer, but then started learning the insides of modern Web Browsers and how they render stuff and he was captivated with this magic world of Front-End Development.</string>
+<string name="hekuran">Hekuran is completing his master\'s degree at the University of Liverpool, specializing in Computer-Security field. He has 13 years experience in the field of data security and software development. Currently he leads the Terabytespace company, which deals with the provision of data storage. In a market where the use of information technology is growing, loss of data can have major consequences for businesses. Therefore it is necessary for the public to be aware of the danger that could threaten during their work with computers.</string>
+<string name="redon">Redon is a Mozilla Representative, a TEDX speaker and a Design Overview in Tirana co-founder. Since 2010 he is an active member of the Albanian open knowledge community hosted at Open Labs hackerspace. He works towards spreading free software in Tirana, Albania and the region through open events, free workshops and speaking at conferences in Albania, Kosovo, Greece and Germany. He is heavily involved with the WMKIT Arduino project and these days you can find him in Berlin hosting workshops and promoting the kit at betahaus Berlin co-working space.</string>
 </resources>

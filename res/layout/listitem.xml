@@ -3,12 +3,16 @@
     android:layout_height="match_parent" 
     android:background="@drawable/item_list_click"
    >
-
-    <TextView
+	<LinearLayout 
+	    android:id="@+id/ll_startTime"
+	    android:orientation="vertical"
+	     android:layout_width="55dp"
+        android:layout_height="100dp"
+	    >
+	    <TextView
         android:id="@+id/t_v_startTime"
-        android:layout_width="55dp"
-        android:layout_height="70dp"
-        android:layout_alignBottom="@+id/t_v_Type"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_alignParentTop="true"
         android:background="#D9E2E1"
         android:gravity="center"
@@ -17,38 +21,49 @@
         android:text="09:00"
         android:textColor="@color/Black"
          />
+	    
+	</LinearLayout>
+    
     <TextView
         android:layout_marginLeft="5dp"
         android:id="@+id/t_v_speaker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/t_v_title"
-        android:layout_toRightOf="@+id/t_v_startTime"
+        android:layout_toRightOf="@+id/ll_startTime"
         android:text="Speaker"
         android:gravity="left"
-        android:textSize="15dp"/>
+        android:textSize="15dp"
+        android:textStyle="bold"/>
 
     <TextView
         android:id="@+id/t_v_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_toRightOf="@+id/t_v_startTime"
+        android:layout_toRightOf="@+id/ll_startTime"
         android:gravity="left"
         android:padding="2dp"
         android:text="Title"
         android:textColor="#006699"
         android:textSize="20dp" />
-
-    <TextView
-        android:id="@+id/t_v_Type"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/t_v_speaker"
-        android:layout_below="@+id/t_v_speaker"
-        android:gravity="left"
-        android:paddingBottom="3dp"
-        android:text="Type: "
-        android:textSize="15dp" />
-
 </RelativeLayout>
+ <!--SFK'13 is and android app used for the Software Freedom Kosovo 2013 conference which is organized by flossk 
+    Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>
+	
+	SFK'13 Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details. -->

@@ -20,15 +20,32 @@
         android:layout_height="wrap_content"
         >
         <TextView 
+            android:textColor="#006699"
             android:layout_width="match_parent"
         	android:layout_height="wrap_content"
-        	android:text="@string/Platinium"
-        	android:textSize="15dp"
-        	android:textColor="@color/Black"
+        	android:text="Platinum:"
+        	android:textSize="25sp"
+        	android:textStyle="bold"
         	android:gravity="center"
             />
     </TableRow>
+   
     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+       <ImageView 
+           android:padding="5dp"
+            android:id="@+id/imageViewGoogle"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/google"
+            
+            />
+            
+    </TableRow>
+<TableRow 
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         >
@@ -37,13 +54,12 @@
             android:id="@+id/imageViewIpkoFoundation"
             android:layout_width="match_parent"
             android:layout_margin="10dp"
-            android:layout_height="50dp"
+            android:layout_height="wrap_content"
             android:src="@drawable/ipko_foundation"
-            android:background="@drawable/image_click"
+            
             />
             
     </TableRow>
-
      <TableRow 
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -51,21 +67,49 @@
 				<ImageView
 				 android:id="@+id/imageViewICK"
                  android:layout_width="match_parent"
-                 android:layout_height="150dp"
+                 android:layout_height="wrap_content"
                  android:src="@drawable/ick_logo"
-                 android:background="@drawable/image_click" />
+                  />
       
     </TableRow>
-    
+    <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+       <ImageView 
+           android:padding="5dp"
+            android:id="@+id/imageViewMinistria"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mkrs"
+            
+            />
+            
+    </TableRow>
+     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    <View
+    android:layout_width="fill_parent"
+    android:layout_height="3dp"
+    android:paddingTop="30dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginBottom="10dp"
+    android:paddingBottom="10dp"
+    android:background="@android:color/darker_gray"/>
+    </TableRow>
      <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:paddingTop="5dp"
+            android:textSize="25sp"
+        	android:textStyle="bold"
             android:text="@string/Gold"
-            android:textColor="@color/Black"
-            
-            android:textSize="15dp" />
+            android:textColor="#006699"
+             />
      <TableRow 
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -74,41 +118,253 @@
          <ImageView
              android:id="@+id/imageViewILAB"
              android:layout_width="match_parent"
-             android:layout_height="70dp"
+             android:layout_height="wrap_content"
              android:layout_margin="10dp"
              android:src="@drawable/ilab" 
-              android:background="@drawable/image_click"/>
+              />
         
      </TableRow>
+     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    <View
+    android:layout_width="fill_parent"
+    android:layout_height="3dp"
+    android:paddingTop="30dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginBottom="10dp"
+    android:paddingBottom="10dp"
+    android:background="@android:color/darker_gray"/>
+    </TableRow>
+     <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:textSize="25sp"
+        	android:textStyle="bold"
+            android:text="Silver:"
+            android:textColor="#006699"
+             />
+     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+         <ImageView
+             android:id="@+id/imageViewStikk"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="10dp"
+             android:src="@drawable/stikk" 
+              />
+        
+     </TableRow>
+      <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+     <View
+    android:layout_width="fill_parent"
+    android:layout_height="3dp"
+    android:paddingTop="30dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginBottom="10dp"
+    android:paddingBottom="10dp"
+    android:background="@android:color/darker_gray"/>
+    </TableRow>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:textSize="25sp"
+        	android:textStyle="bold"
+            android:text="Bronze:"
+            android:textColor="#006699"
+             />
+     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+         <ImageView
+             android:id="@+id/imageViewFrutomania"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="10dp"
+             android:src="@drawable/frutomania" 
+              />
+        
+     </TableRow>
+      <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+     <View
+    android:layout_width="fill_parent"
+    android:layout_height="3dp"
+    android:paddingTop="30dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginBottom="10dp"
+    android:paddingBottom="10dp"
+    android:background="@android:color/darker_gray"/>
+    </TableRow>
+     <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#006699"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:text="Supporter:"
+            android:textSize="25sp"
+        	android:textStyle="bold" />
+     
+     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+         <ImageView
+             android:id="@+id/imageViewFed"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="10dp"
+             android:src="@drawable/fed" 
+              />
+        </TableRow> 
+     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+         <ImageView
+             android:id="@+id/imageViewCacttus"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="10dp"
+             android:src="@drawable/cacttus" 
+              />
+         </TableRow>
+          <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+          <ImageView
+             android:id="@+id/imageViewOpensLab"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="10dp"
+             android:src="@drawable/opens_lab" 
+              />
+          </TableRow>
+           <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    <View
+    android:layout_width="fill_parent"
+    android:layout_height="3dp"
+    android:paddingTop="30dp"
+    android:paddingBottom="10dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginBottom="10dp"
+    android:background="@android:color/darker_gray"/>
+    </TableRow>
+    
      <TableRow 
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         >
         <TextView 
-            
+            android:textColor="#006699"
             android:layout_width="match_parent"
         	android:layout_height="wrap_content"
         	android:text="@string/Media"
-        	android:textSize="15dp"
-        	android:textColor="@color/Black"
+        	android:textSize="25sp"
+        	android:textStyle="bold"
         	android:gravity="center"
-        	 android:background="@drawable/image_click"
+        	 
             />
     </TableRow>
+     
      <TableRow 
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         >
-        <ImageView 
-            android:id="@+id/imageViewDigjitale"
-            android:layout_width="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_height="70dp"
-            android:src="@drawable/digjitale"
-             android:background="@drawable/image_click"
-             android:layout_marginBottom="10dp"
-            />
+
+             <ImageView
+                 android:id="@+id/imageViewDigjitale"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_margin="10dp"
+                 android:layout_marginBottom="10dp"
+                 
+                 android:src="@drawable/digjitale" />
+
+        </TableRow>
+         <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+         <ImageView
+             android:id="@+id/imageViewTelegrafi"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="10dp"
+             android:src="@drawable/telegrafi" 
+              />
+         </TableRow>
+         
+          <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        >
+          <ImageView
+             android:id="@+id/imageViewPcWorld"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="10dp"
+             android:src="@drawable/pcworld" 
+              />
+          </TableRow>
+          <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        >
+          <ImageView
+             android:id="@+id/imageViewKrokodili"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="10dp"
+             android:src="@drawable/krokodili" 
+              />
+          </TableRow>
+         
+           
         
-     </TableRow>
+    
 </TableLayout>
 </ScrollView>
+ <!--SFK'13 is and android app used for the Software Freedom Kosovo 2013 conference which is organized by flossk 
+    Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>
+	
+	SFK'13 Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details. -->

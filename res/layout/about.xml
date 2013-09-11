@@ -3,13 +3,11 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="#141414">
+    android:orientation="vertical">
     <RelativeLayout 
          android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#141414"
         >
         
         <TextView 
@@ -21,7 +19,8 @@
          android:textSize="20sp"
          android:layout_margin="10dp"
          android:gravity="center"
-         android:textColor="@color/SfkC"
+         android:textColor="@color/blue_text"
+         android:textIsSelectable="true"
          />
         <TextView
          android:id="@+id/textViewPartOne"
@@ -30,7 +29,7 @@
          android:layout_height="wrap_content"
          android:layout_marginBottom="10dp"
          android:text="@string/FirstPart"
-         android:textColor="@color/White"
+         android:textIsSelectable="true"
          android:padding="10dp"
          >
          
@@ -38,11 +37,11 @@
      <TextView 
          	 android:id="@+id/textViewPartTwo"
          android:layout_below="@+id/textViewPartOne"
-       
+       android:textIsSelectable="true"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/SecondPart"
-         android:textColor="@color/White"
+         
          android:padding="10dp"
          />
      <TextView 
@@ -51,11 +50,12 @@
        	 android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/TitleTwo"
-         android:textColor="@color/SfkC"
+         android:textColor="@color/blue_text"
          android:textStyle="bold"
          android:padding="10dp"
          android:gravity="center"
          android:textSize="20sp"
+         android:textIsSelectable="true"
          />
      <TextView 
          android:id="@+id/textViewPartThree"
@@ -63,7 +63,7 @@
        	 android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/PartThree"
-         android:textColor="@color/White"
+         android:textIsSelectable="true"
          android:padding="10dp"
          />
      
@@ -73,7 +73,7 @@
        	 android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/PartFour"
-         android:textColor="@color/White"
+         android:textIsSelectable="true"
          android:paddingLeft="10dp"
          android:paddingRight="10dp"
          android:paddingTop="10dp"
@@ -85,9 +85,10 @@
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/LinkFour"
-         android:textColor="@color/SfkC"
+         android:textColor="@color/blue_text"
          android:paddingLeft="10dp"
          android:background="@drawable/image_click"
+         android:textIsSelectable="true"
          />
     <TextView 
          android:id="@+id/textViewPartFive"
@@ -95,7 +96,7 @@
        	 android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/PartFive"
-         android:textColor="@color/White"
+         android:textIsSelectable="true"
          android:paddingLeft="10dp"
          android:paddingRight="10dp"
          android:paddingTop="10dp"
@@ -107,9 +108,10 @@
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/LinkFive"
-         android:textColor="@color/SfkC"
+         android:textColor="@color/blue_text"
          android:paddingLeft="10dp"
          android:background="@drawable/image_click"
+         android:textIsSelectable="true"
          />
     <TextView 
          android:id="@+id/textViewPartSix"
@@ -117,7 +119,7 @@
        	 android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/PartSix"
-         android:textColor="@color/White"
+         android:textIsSelectable="true"
          android:paddingLeft="10dp"
          android:paddingRight="10dp"
          android:paddingTop="10dp"
@@ -129,9 +131,10 @@
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/LinkSix"
-         android:textColor="@color/SfkC"
+         android:textColor="@color/blue_text"
          android:paddingLeft="10dp"
          android:background="@drawable/image_click"
+         android:textIsSelectable="true"
          />
     <TextView 
          android:id="@+id/textViewPartSeven"
@@ -139,7 +142,7 @@
        	 android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/PartSeven"
-         android:textColor="@color/White"
+         android:textIsSelectable="true"
          android:paddingLeft="10dp"
          android:paddingRight="10dp"
          android:paddingTop="10dp"
@@ -151,9 +154,10 @@
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/LinkSeven"
-         android:textColor="@color/SfkC"
+         android:textColor="@color/blue_text"
          android:paddingLeft="10dp"
          android:background="@drawable/image_click"
+         android:textIsSelectable="true"
          />
      <TextView 
          android:id="@+id/textViewPartEight"
@@ -161,7 +165,7 @@
        	 android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/PartEight"
-         android:textColor="@color/White"
+         android:textIsSelectable="true"
          android:paddingLeft="10dp"
          android:paddingRight="10dp"
          android:paddingTop="20dp"
@@ -173,9 +177,10 @@
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/LinkEight"
-         android:textColor="@color/SfkC"
+         android:textColor="@color/blue_text"
          android:paddingLeft="10dp"
          android:background="@drawable/image_click"
+         android:textIsSelectable="true"
          />
     <TextView 
          android:id="@+id/textViewTitleThree"
@@ -185,11 +190,12 @@
           android:textStyle="bold"
          android:textSize="20sp"
          android:text="@string/TitleThree"
-         android:textColor="@color/SfkC"
+         android:textColor="@color/blue_text"
          android:paddingLeft="10dp"
          android:paddingRight="10dp"
          android:paddingTop="10dp"
          android:layout_marginTop="10dp"
+         android:textIsSelectable="true"
          android:gravity="center"
         />
     <TextView 
@@ -198,7 +204,7 @@
        	 android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:text="@string/PartNine"
-         android:textColor="@color/White"
+         android:textIsSelectable="true"
          android:paddingLeft="10dp"
          android:paddingRight="10dp"
          android:paddingTop="10dp"
@@ -208,5 +214,24 @@
      
     
 </ScrollView>
+ <!--SFK'13 is and android app used for the Software Freedom Kosovo 2013 conference which is organized by flossk 
+    Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
 
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>
+	
+	SFK'13 Copyright (C) 2013  Arlind Hajredinaj and Jeton Ahmetaj
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details. -->
 
