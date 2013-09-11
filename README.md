@@ -1,7 +1,8 @@
 SFK13-android-app
 =================
 
-Software Freedom Kosova Conference 2013 - Android application - http://sfk.flossk.org
+This application was developed for the 5th edition of Software Freedom Kosova Conference 2013.<br>
+The application contains the Conference Schedule for all three days of the conference - sessions (talks and workshops) with their descriptions included, speaker profiles, sponsors, the conference venue and an about page for Software Freedom Kosova Conference.
 <br>
 
 Software Freedom Kosova 2013 (SFK13) - Conference Application <br>
