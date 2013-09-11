@@ -5,7 +5,7 @@ Software Freedom Kosova Conference 2013 - Android application - http://sfk.floss
 <br>
 
 Software Freedom Kosova 2013 (SFK13) - Conference Application <br>
-Code writen on Java <br>
+Code written on Java <br>
 Version: 1.3 <br>
 
 Copyright (C) 2013 Arlind Hajredinaj - arlind.hajredinaj@gmail.com & Jeton Ahmetaj - jeton.ahmetaj40@gmail.com 
